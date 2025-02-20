@@ -24,7 +24,7 @@ const Home = () => {
   return (
     <div className="p-6 min-h-screen bg-gradient-to-br from-gray-100 via-gray-300 to-gray-400 flex flex-col items-center">
     <h1 className="text-5xl font-extrabold mb-8 text-gray-900 drop-shadow-lg">
-      WELCOME TO THREAT INTELLIGENCE SHARING PLATFORM 
+      WELCOME TO THREAT INTELLIGENCE SHARING PLATFORM !
     </h1>
   
     {/* Add Threat Button */}
